@@ -1,0 +1,3755 @@
+{
+    "intents": [
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "hi"
+            ],
+            "responses": [
+                "hello help github"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "good morning"
+            ],
+            "responses": [
+                "good morning assist today"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "good evening"
+            ],
+            "responses": [
+                "good evening need help github"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "howdy"
+            ],
+            "responses": [
+                "hey help today"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "greeting"
+            ],
+            "responses": [
+                "greeting brings"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "hello"
+            ],
+            "responses": [
+                "hi assist github today"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "hey"
+            ],
+            "responses": [
+                "hello need help github command issue"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "hi"
+            ],
+            "responses": [
+                "hi help today"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "good morning"
+            ],
+            "responses": [
+                "good morning assist"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "howdy"
+            ],
+            "responses": [
+                "hey brings today"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "greeting"
+            ],
+            "responses": [
+                "greeting help"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "hey"
+            ],
+            "responses": [
+                "hi hows going"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "hello bot"
+            ],
+            "responses": [
+                "hello assist github query"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "hi github bot"
+            ],
+            "responses": [
+                "hi need help github"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "whats"
+            ],
+            "responses": [
+                "hey assist"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "yo"
+            ],
+            "responses": [
+                "yo need help"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "hey"
+            ],
+            "responses": [
+                "hey whats"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "hi bot"
+            ],
+            "responses": [
+                "hi need today"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "hello"
+            ],
+            "responses": [
+                "im code im ready help need"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "hi help"
+            ],
+            "responses": [
+                "course need help"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "good day"
+            ],
+            "responses": [
+                "good day assist github"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "hi"
+            ],
+            "responses": [
+                "hello welcome back need today"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "hello bot"
+            ],
+            "responses": [
+                "yes im need help"
+            ]
+        },
+        {
+            "tags": [
+                "greetings"
+            ],
+            "patterns": [
+                "hey ask question"
+            ],
+            "responses": [
+                "course whats question"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "many repository"
+            ],
+            "responses": [
+                "check github profile see repository"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "public repository"
+            ],
+            "responses": [
+                "public repos listed github profile"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "show private repos"
+            ],
+            "responses": [
+                "private repository accessed dashboard"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "repos"
+            ],
+            "responses": [
+                "see repos profile page"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "view project"
+            ],
+            "responses": [
+                "check repository tab profile"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "tell active repos"
+            ],
+            "responses": [
+                "dont direct access theyre github page"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "repository"
+            ],
+            "responses": [
+                "repos profile github homepage"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "repository"
+            ],
+            "responses": [
+                "check github account see repository"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "list github repository"
+            ],
+            "responses": [
+                "repository listed profile"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "see repos"
+            ],
+            "responses": [
+                "go github profile click repository"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "find github project"
+            ],
+            "responses": [
+                "project repository tab"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "opensource repos"
+            ],
+            "responses": [
+                "opensource repos created listed profile"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "repos public private"
+            ],
+            "responses": [
+                "check repo setting see theyre public private"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "many fork"
+            ],
+            "responses": [
+                "check repository fork count"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "see project"
+            ],
+            "responses": [
+                "cant see directly view profile"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "collaborative project"
+            ],
+            "responses": [
+                "collaborative repos listed profile collaboration"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "repository list"
+            ],
+            "responses": [
+                "github profile repository"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "see starred repos"
+            ],
+            "responses": [
+                "yes theyre listed star section profile"
+            ]
+        },
+        {
+            "tags": [
+                "repo_status"
+            ],
+            "patterns": [
+                "find open repository"
+            ],
+            "responses": [
+                "go profile check repository tab"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "create new repo"
+            ],
+            "responses": [
+                "go github click new follow step"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "start new repository"
+            ],
+            "responses": [
+                "click new repository github dashboard"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "make project github"
+            ],
+            "responses": [
+                "click new name project create repository"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "set repository"
+            ],
+            "responses": [
+                "click new repository fill detail"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "create github repository"
+            ],
+            "responses": [
+                "go github dashboard click new"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "need make new repo"
+            ],
+            "responses": [
+                "click new set repository"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "start new project github"
+            ],
+            "responses": [
+                "use new repository option dashboard"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "create repository"
+            ],
+            "responses": [
+                "github homepage click new get started"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "create multiple repository"
+            ],
+            "responses": [
+                "yes create many repository need"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "step make new repo"
+            ],
+            "responses": [
+                "click new repository name hit create"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "make private repository"
+            ],
+            "responses": [
+                "select private creating new repository"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "switch public repo private"
+            ],
+            "responses": [
+                "yes change repository setting"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "name new repo"
+            ],
+            "responses": [
+                "choose descriptive name setting"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "whats difference repo project"
+            ],
+            "responses": [
+                "project manage task repo hold code"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "clone new repo template"
+            ],
+            "responses": [
+                "yes github let create repository template"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "need readme file"
+            ],
+            "responses": [
+                "recommended include readme describe repo"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "initialize new repo git"
+            ],
+            "responses": [
+                "use git init local directory"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "whats first step creating repo"
+            ],
+            "responses": [
+                "click new github start repository"
+            ]
+        },
+        {
+            "tags": [
+                "create_repo"
+            ],
+            "patterns": [
+                "need license new repo"
+            ],
+            "responses": [
+                "adding license optional recommended"
+            ]
+        },
+        {
+            "tags": [
+                "fork_repo"
+            ],
+            "patterns": [
+                "fork repo"
+            ],
+            "responses": [
+                "click fork repository want copy"
+            ]
+        },
+        {
+            "tags": [
+                "fork_repo"
+            ],
+            "patterns": [
+                "fork project"
+            ],
+            "responses": [
+                "yes hit fork repo page"
+            ]
+        },
+        {
+            "tags": [
+                "fork_repo"
+            ],
+            "patterns": [
+                "mean fork repo"
+            ],
+            "responses": [
+                "forking make copy repo account"
+            ]
+        },
+        {
+            "tags": [
+                "fork_repo"
+            ],
+            "patterns": [
+                "find forked repos"
+            ],
+            "responses": [
+                "appear repository"
+            ]
+        },
+        {
+            "tags": [
+                "fork_repo"
+            ],
+            "patterns": [
+                "delete fork"
+            ],
+            "responses": [
+                "go repo setting delete"
+            ]
+        },
+        {
+            "tags": [
+                "fork_repo"
+            ],
+            "patterns": [
+                "make change fork"
+            ],
+            "responses": [
+                "yes change wont affect original unless open pull request"
+            ]
+        },
+        {
+            "tags": [
+                "fork_repo"
+            ],
+            "patterns": [
+                "fork sync original"
+            ],
+            "responses": [
+                "must manually pull change original"
+            ]
+        },
+        {
+            "tags": [
+                "fork_repo"
+            ],
+            "patterns": [
+                "fork private repo"
+            ],
+            "responses": [
+                "permission"
+            ]
+        },
+        {
+            "tags": [
+                "fork_repo"
+            ],
+            "patterns": [
+                "update fork"
+            ],
+            "responses": [
+                "fetch update original repo merge"
+            ]
+        },
+        {
+            "tags": [
+                "fork_repo"
+            ],
+            "patterns": [
+                "fork repo multiple time"
+            ],
+            "responses": [
+                "fork delete refork"
+            ]
+        },
+        {
+            "tags": [
+                "pull_request"
+            ],
+            "patterns": [
+                "submit pull request"
+            ],
+            "responses": [
+                "push change click new pull request repo"
+            ]
+        },
+        {
+            "tags": [
+                "pull_request"
+            ],
+            "patterns": [
+                "pull request"
+            ],
+            "responses": [
+                "pull request let repo owner review change"
+            ]
+        },
+        {
+            "tags": [
+                "pull_request"
+            ],
+            "patterns": [
+                "close pull request"
+            ],
+            "responses": [
+                "yes close longer needed"
+            ]
+        },
+        {
+            "tags": [
+                "pull_request"
+            ],
+            "patterns": [
+                "edit pull request"
+            ],
+            "responses": [
+                "update branch reflect request"
+            ]
+        },
+        {
+            "tags": [
+                "pull_request"
+            ],
+            "patterns": [
+                "assign someone review pull request"
+            ],
+            "responses": [
+                "yes select reviewer creating request"
+            ]
+        },
+        {
+            "tags": [
+                "pull_request"
+            ],
+            "patterns": [
+                "merge pull request"
+            ],
+            "responses": [
+                "click merge reviewing change"
+            ]
+        },
+        {
+            "tags": [
+                "pull_request"
+            ],
+            "patterns": [
+                "happens merge pull request"
+            ],
+            "responses": [
+                "change incorporated target branch"
+            ]
+        },
+        {
+            "tags": [
+                "pull_request"
+            ],
+            "patterns": [
+                "reject pull request"
+            ],
+            "responses": [
+                "close without merging"
+            ]
+        },
+        {
+            "tags": [
+                "pull_request"
+            ],
+            "patterns": [
+                "submit multiple pull request"
+            ],
+            "responses": [
+                "yes submit many needed"
+            ]
+        },
+        {
+            "tags": [
+                "pull_request"
+            ],
+            "patterns": [
+                "explain pull request"
+            ],
+            "responses": [
+                "pull request let notify repository owner change"
+            ]
+        },
+        {
+            "tags": [
+                "pull_request"
+            ],
+            "patterns": [
+                "make pull request"
+            ],
+            "responses": [
+                "pushing change go repo click pull request follow instruction"
+            ]
+        },
+        {
+            "tags": [
+                "pull_request"
+            ],
+            "patterns": [
+                "delete pull request"
+            ],
+            "responses": [
+                "yes close longer needed"
+            ]
+        },
+        {
+            "tags": [
+                "pull_request"
+            ],
+            "patterns": [
+                "see open pull request"
+            ],
+            "responses": [
+                "go pull request tab repository"
+            ]
+        },
+        {
+            "tags": [
+                "issue_creation"
+            ],
+            "patterns": [
+                "create new issue"
+            ],
+            "responses": [
+                "click new issue fill detail"
+            ]
+        },
+        {
+            "tags": [
+                "issue_creation"
+            ],
+            "patterns": [
+                "assign issue someone"
+            ],
+            "responses": [
+                "yes add assignee"
+            ]
+        },
+        {
+            "tags": [
+                "issue_creation"
+            ],
+            "patterns": [
+                "close issue"
+            ],
+            "responses": [
+                "click close issue resolved"
+            ]
+        },
+        {
+            "tags": [
+                "issue_creation"
+            ],
+            "patterns": [
+                "reopen closed issue"
+            ],
+            "responses": [
+                "yes click reopen issue"
+            ]
+        },
+        {
+            "tags": [
+                "issue_creation"
+            ],
+            "patterns": [
+                "label issue"
+            ],
+            "responses": [
+                "add label label section issue"
+            ]
+        },
+        {
+            "tags": [
+                "issue_creation"
+            ],
+            "patterns": [
+                "link issue pull request"
+            ],
+            "responses": [
+                "yes reference issue number pr description"
+            ]
+        },
+        {
+            "tags": [
+                "issue_creation"
+            ],
+            "patterns": [
+                "track issue progress"
+            ],
+            "responses": [
+                "use github project add milestone"
+            ]
+        },
+        {
+            "tags": [
+                "issue_creation"
+            ],
+            "patterns": [
+                "issue github"
+            ],
+            "responses": [
+                "issue used track task enhancement bug"
+            ]
+        },
+        {
+            "tags": [
+                "issue_creation"
+            ],
+            "patterns": [
+                "see issue"
+            ],
+            "responses": [
+                "check issue tab repository"
+            ]
+        },
+        {
+            "tags": [
+                "issue_creation"
+            ],
+            "patterns": [
+                "report bug repo"
+            ],
+            "responses": [
+                "create new issue repository describe bug"
+            ]
+        },
+        {
+            "tags": [
+                "issue_creation"
+            ],
+            "patterns": [
+                "assign issue someone"
+            ],
+            "responses": [
+                "yes select name creating editing issue"
+            ]
+        },
+        {
+            "tags": [
+                "issue_creation"
+            ],
+            "patterns": [
+                "close issue"
+            ],
+            "responses": [
+                "mark closed fixed issue resolved"
+            ]
+        },
+        {
+            "tags": [
+                "issue_creation"
+            ],
+            "patterns": [
+                "prioritize issue"
+            ],
+            "responses": [
+                "yes use label milestone prioritize"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "push change"
+            ],
+            "responses": [
+                "use git push origin branch upload change"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "push command"
+            ],
+            "responses": [
+                "git push uploads commits remote repository"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "push specific branch"
+            ],
+            "responses": [
+                "use git push origin branchname"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "happens push wrong branch"
+            ],
+            "responses": [
+                "delete reset push redo correct branch"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "push without commit"
+            ],
+            "responses": [
+                "need commit change pushing"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "force push change"
+            ],
+            "responses": [
+                "use git push force caution overwrite change"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "push error"
+            ],
+            "responses": [
+                "happens local branch behind remote branch"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "push multiple branch"
+            ],
+            "responses": [
+                "yes push one one use wildcard"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "push rejected"
+            ],
+            "responses": [
+                "could due conflict lack permission"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "see pushed"
+            ],
+            "responses": [
+                "check github repository commit history"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "push change github"
+            ],
+            "responses": [
+                "run git push origin branchname upload change"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "push command"
+            ],
+            "responses": [
+                "git push uploads local commits remote repository"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "push change github"
+            ],
+            "responses": [
+                "run git push origin branchname upload change"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "push command"
+            ],
+            "responses": [
+                "git push uploads local commits remote repository"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "happens push wrong branch"
+            ],
+            "responses": [
+                "reset delete push reupload correct branch"
+            ]
+        },
+        {
+            "tags": [
+                "git_push"
+            ],
+            "patterns": [
+                "push wrong branch"
+            ],
+            "responses": [
+                "reset delete push reupload correct branch"
+            ]
+        },
+        {
+            "tags": [
+                "branch_management"
+            ],
+            "patterns": [
+                "create new branch"
+            ],
+            "responses": [
+                "use git branch branchname"
+            ]
+        },
+        {
+            "tags": [
+                "branch_management"
+            ],
+            "patterns": [
+                "switch branch"
+            ],
+            "responses": [
+                "use git checkout branchname git switch"
+            ]
+        },
+        {
+            "tags": [
+                "branch_management"
+            ],
+            "patterns": [
+                "delete branch"
+            ],
+            "responses": [
+                "use git branch branchname delete"
+            ]
+        },
+        {
+            "tags": [
+                "branch_management"
+            ],
+            "patterns": [
+                "rename branch"
+            ],
+            "responses": [
+                "yes use git branch newname"
+            ]
+        },
+        {
+            "tags": [
+                "branch_management"
+            ],
+            "patterns": [
+                "merge branch"
+            ],
+            "responses": [
+                "switch target branch run git merge sourcebranch"
+            ]
+        },
+        {
+            "tags": [
+                "branch_management"
+            ],
+            "patterns": [
+                "branch"
+            ],
+            "responses": [
+                "branch independent line development"
+            ]
+        },
+        {
+            "tags": [
+                "branch_management"
+            ],
+            "patterns": [
+                "list branch"
+            ],
+            "responses": [
+                "run git branch see branch"
+            ]
+        },
+        {
+            "tags": [
+                "branch_management"
+            ],
+            "patterns": [
+                "multiple branch"
+            ],
+            "responses": [
+                "yes create many branch needed"
+            ]
+        },
+        {
+            "tags": [
+                "branch_management"
+            ],
+            "patterns": [
+                "handle branch conflict"
+            ],
+            "responses": [
+                "use git merge carefully resolve conflict manually"
+            ]
+        },
+        {
+            "tags": [
+                "branch_management"
+            ],
+            "patterns": [
+                "switch branch"
+            ],
+            "responses": [
+                "yes use git checkout branchname switch"
+            ]
+        },
+        {
+            "tags": [
+                "branch_management"
+            ],
+            "patterns": [
+                "branch"
+            ],
+            "responses": [
+                "branch allows work different feature independently"
+            ]
+        },
+        {
+            "tags": [
+                "branch_management"
+            ],
+            "patterns": [
+                "publish branch"
+            ],
+            "responses": [
+                "push branch using git push origin branch"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "commit change"
+            ],
+            "responses": [
+                "use git commit message save change"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "git commit"
+            ],
+            "responses": [
+                "git commit save staged change local repo"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "commit multiple file"
+            ],
+            "responses": [
+                "yes stage git add committing"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "commit message"
+            ],
+            "responses": [
+                "describes change youve made tracking purpose"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "write good commit message"
+            ],
+            "responses": [
+                "concise example git commit fixed login issue"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "happens commit"
+            ],
+            "responses": [
+                "change saved locally push"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "change commit message"
+            ],
+            "responses": [
+                "yes use git commit amend modify last commit"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "difference commit push"
+            ],
+            "responses": [
+                "git commit save locally git push uploads remotely"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "view commits"
+            ],
+            "responses": [
+                "use git log see commit history"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "commit without staging"
+            ],
+            "responses": [
+                "yes git commit message stage tracked file"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "undo commit"
+            ],
+            "responses": [
+                "use git reset soft head undo last commit"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "staged commit"
+            ],
+            "responses": [
+                "file prepared commit using git add staged"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "commit directly branch"
+            ],
+            "responses": [
+                "switch branch commit normally"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "skip commit message"
+            ],
+            "responses": [
+                "message required commit"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "happens forget commit"
+            ],
+            "responses": [
+                "change stay unstaged uncommitted locally"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "see detail specific commit"
+            ],
+            "responses": [
+                "use git show commithash view detail"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "commit empty change"
+            ],
+            "responses": [
+                "yes use git commit allowempty"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "often commit"
+            ],
+            "responses": [
+                "commit whenever youve made meaningful change"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "combine multiple commits"
+            ],
+            "responses": [
+                "yes squash rebase"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "mean commit"
+            ],
+            "responses": [
+                "commit save change repository history"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "write commit message"
+            ],
+            "responses": [
+                "write brief description commit eg git commit fix login bug"
+            ]
+        },
+        {
+            "tags": [
+                "commit_changes"
+            ],
+            "patterns": [
+                "undo commit"
+            ],
+            "responses": [
+                "use git reset git revert undo change"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "delete repository"
+            ],
+            "responses": [
+                "go repository setting click delete repository"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "happens delete repo"
+            ],
+            "responses": [
+                "repository data permanently removed"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "recover deleted repo"
+            ],
+            "responses": [
+                "deleted repository recovered"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "delete repository"
+            ],
+            "responses": [
+                "go repos setting scroll click delete"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "recover deleted repository"
+            ],
+            "responses": [
+                "deleted recovered"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "happens delete repo"
+            ],
+            "responses": [
+                "entire repository including code issue removed"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "delete forked repo"
+            ],
+            "responses": [
+                "delete way via repo setting"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "collaborator delete repo"
+            ],
+            "responses": [
+                "owner admins delete repository"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "need type confirm deletion"
+            ],
+            "responses": [
+                "youll need type repository name confirm"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "delete private repo"
+            ],
+            "responses": [
+                "yes process public repository"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "delete branch deleting repo"
+            ],
+            "responses": [
+                "branch deleted along repository"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "need permission delete repo"
+            ],
+            "responses": [
+                "owner admin delete"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "delete repo github app"
+            ],
+            "responses": [
+                "need web interface"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "deleting repo reversible"
+            ],
+            "responses": [
+                "deletion permanent"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "back repo deleting"
+            ],
+            "responses": [
+                "yes download zip clone locally"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "happens issue delete repo"
+            ],
+            "responses": [
+                "issue deleted along repository"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "delete multiple repository"
+            ],
+            "responses": [
+                "youll need delete one one"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "delete someone el repo"
+            ],
+            "responses": [
+                "owner admin privilege"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "deleting repo affect fork"
+            ],
+            "responses": [
+                "fork remain intact even original deleted"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "consequence deleting repo"
+            ],
+            "responses": [
+                "lose file commits issue setting"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "archive instead delete"
+            ],
+            "responses": [
+                "yes archiving preserve repo make readonly"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "confirm repo deleted"
+            ],
+            "responses": [
+                "check account try access repo url"
+            ]
+        },
+        {
+            "tags": [
+                "repo_delete"
+            ],
+            "patterns": [
+                "happens collaborator deletion"
+            ],
+            "responses": [
+                "lose access repository longer exists"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "guide clone repository"
+            ],
+            "responses": [
+                "run git clone repourl copy repo locally"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "happens clone repo"
+            ],
+            "responses": [
+                "create local copy repository computer"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "clone private repo"
+            ],
+            "responses": [
+                "yes need permission repository owner"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "clone repository"
+            ],
+            "responses": [
+                "use git clone repourl copy repository locally"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "purpose cloning repo"
+            ],
+            "responses": [
+                "cloning downloads entire repository machine"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "clone private repo"
+            ],
+            "responses": [
+                "need access permission use git clone repourl"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "clone repo via ssh"
+            ],
+            "responses": [
+                "yes use ssh link git clone gitgithubcomuserrepogit"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "clone specific directory"
+            ],
+            "responses": [
+                "use git clone repourl directoryname"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "happens clone repo twice"
+            ],
+            "responses": [
+                "youll duplicate copy unless rename folder"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "clone branch"
+            ],
+            "responses": [
+                "use git clone b branchname repourl"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "clone forked repository"
+            ],
+            "responses": [
+                "process git clone forkurl"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "difference clone fork"
+            ],
+            "responses": [
+                "forking copy repo account cloning copy machine"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "clone without github account"
+            ],
+            "responses": [
+                "yes public repository private one require access"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "update cloned repository"
+            ],
+            "responses": [
+                "use git pull sync local copy remote"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "clone repository using http"
+            ],
+            "responses": [
+                "yes use http url git clone httpsgithubcomuserrepogit"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "cloning fails"
+            ],
+            "responses": [
+                "check internet connection authentication setting"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "clone github desktop"
+            ],
+            "responses": [
+                "yes select clone repository github desktop app"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "reclone repository"
+            ],
+            "responses": [
+                "delete folder run git clone command"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "shallow cloning"
+            ],
+            "responses": [
+                "use depth clone latest commits"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "clone archived repository"
+            ],
+            "responses": [
+                "archived repos still cloned using git clone"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "clone multiple repository"
+            ],
+            "responses": [
+                "youll need run git clone repository separately"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "cloning"
+            ],
+            "responses": [
+                "navigate folder use git command like git pull git commit"
+            ]
+        },
+        {
+            "tags": [
+                "clone_repo"
+            ],
+            "patterns": [
+                "clone mobile"
+            ],
+            "responses": [
+                "use git client like termux android working copy io"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "git pull"
+            ],
+            "responses": [
+                "git pull fetch merges change remote repository"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "pull latest change"
+            ],
+            "responses": [
+                "run git pull origin main get latest update"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "pull specific branch"
+            ],
+            "responses": [
+                "yes use git pull origin branchname"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "pull latest change"
+            ],
+            "responses": [
+                "use git pull origin branch fetch merge change"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "git pull"
+            ],
+            "responses": [
+                "git pull downloads merges change remote repository"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "pull without merging"
+            ],
+            "responses": [
+                "git pull always fetch merges use git fetch avoid merging"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "pull specific branch"
+            ],
+            "responses": [
+                "run git pull origin branchname"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "happens pull conflict"
+            ],
+            "responses": [
+                "git ask resolve conflict manually"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "difference pull fetch"
+            ],
+            "responses": [
+                "git fetch downloads change git pull also merges"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "pull multiple branch"
+            ],
+            "responses": [
+                "need switch branch pull one one"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "automate git pull"
+            ],
+            "responses": [
+                "yes use cron job script automation"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "force pull change"
+            ],
+            "responses": [
+                "use git fetch followed git reset hard originbranch"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "pull change fork"
+            ],
+            "responses": [
+                "add original repo remote pull git pull remote branch"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "happens dont pull pushing"
+            ],
+            "responses": [
+                "might face conflict local copy outdated"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "pull specific file"
+            ],
+            "responses": [
+                "git pull work branch level file level"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "pull change github desktop"
+            ],
+            "responses": [
+                "click fetch origin followed pull github desktop"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "pull rebase"
+            ],
+            "responses": [
+                "use git pull rebase avoid merge commits"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "cancel pull progress"
+            ],
+            "responses": [
+                "yes interrupt pressing ctrlc"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "resolve conflict pulling"
+            ],
+            "responses": [
+                "edit conflicting file commit change"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "already date mean"
+            ],
+            "responses": [
+                "mean local branch synchronized remote branch"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "pull change branch"
+            ],
+            "responses": [
+                "need switch pull branch individually"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "undo git pull"
+            ],
+            "responses": [
+                "use git reset hard head revert previous state"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "shallow pull"
+            ],
+            "responses": [
+                "cant shallow pull use shallow clone depth"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "often pull"
+            ],
+            "responses": [
+                "pull regularly keep local repository date"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "pull detached head state"
+            ],
+            "responses": [
+                "yes change wont associated branch unless switch"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "happens pull empty repo"
+            ],
+            "responses": [
+                "git pull wont change fetch"
+            ]
+        },
+        {
+            "tags": [
+                "git_pull"
+            ],
+            "patterns": [
+                "pull without authentication"
+            ],
+            "responses": [
+                "private repos youll need authentication public repos may require"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "thanks"
+            ],
+            "responses": [
+                "youre welcome"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "thank much"
+            ],
+            "responses": [
+                "glad could help"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "thanks lot"
+            ],
+            "responses": [
+                "problem"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "appreciate"
+            ],
+            "responses": [
+                "anytime"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "much appreciated"
+            ],
+            "responses": [
+                "youre welcome"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "thanks helpful"
+            ],
+            "responses": [
+                "im happy help"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "thanks ton"
+            ],
+            "responses": [
+                "worry"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "thanks help"
+            ],
+            "responses": [
+                "youre welcome feel free ask"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "thanks quick response"
+            ],
+            "responses": [
+                "pleasure"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "cheer"
+            ],
+            "responses": [
+                "cheer"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "thanks"
+            ],
+            "responses": [
+                "problem"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "many thanks"
+            ],
+            "responses": [
+                "youre welcome"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "appreciate help"
+            ],
+            "responses": [
+                "glad could assist"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "thanks youre awesome"
+            ],
+            "responses": [
+                "haha thanks youre awesome"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "thank kindly"
+            ],
+            "responses": [
+                "youre welcome"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "thanks explaining"
+            ],
+            "responses": [
+                "happy help anytime"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "big thanks"
+            ],
+            "responses": [
+                "glad could assist"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "thanks fast"
+            ],
+            "responses": [
+                "always help"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "thank much"
+            ],
+            "responses": [
+                "anytime"
+            ]
+        },
+        {
+            "tags": [
+                "thanks"
+            ],
+            "patterns": [
+                "thanks million"
+            ],
+            "responses": [
+                "youre welcome"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "goodbye"
+            ],
+            "responses": [
+                "goodbye take care"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "see later"
+            ],
+            "responses": [
+                "see later great day"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "bye"
+            ],
+            "responses": [
+                "bye catch next time"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "talk soon"
+            ],
+            "responses": [
+                "sure talk soon"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "take care"
+            ],
+            "responses": [
+                "see later"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "peace"
+            ],
+            "responses": [
+                "peace"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "later"
+            ],
+            "responses": [
+                "later stay awesome"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "im thanks"
+            ],
+            "responses": [
+                "see around good one"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "bye"
+            ],
+            "responses": [
+                "bye come back anytime"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "catch later"
+            ],
+            "responses": [
+                "catch later"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "see next time"
+            ],
+            "responses": [
+                "looking forward"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "time go bye"
+            ],
+            "responses": [
+                "goodbye stay safe"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "alright im done bye"
+            ],
+            "responses": [
+                "bye productive day"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "logging bye"
+            ],
+            "responses": [
+                "goodbye next time"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "im signing later"
+            ],
+            "responses": [
+                "later dont hesitate ask"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "byebye"
+            ],
+            "responses": [
+                "byebye"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "ill talk tomorrow"
+            ],
+            "responses": [
+                "sure thing take care"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "im done bye"
+            ],
+            "responses": [
+                "see next time"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "alright catch later"
+            ],
+            "responses": [
+                "take care goodbye"
+            ]
+        },
+        {
+            "tags": [
+                "goodbye"
+            ],
+            "patterns": [
+                "thats bye"
+            ],
+            "responses": [
+                "goodbye come back anytime"
+            ]
+        },
+        {
+            "tags": [
+                "repo_collaboration"
+            ],
+            "patterns": [
+                "add collaborator"
+            ],
+            "responses": [
+                "go repository setting click collaborator invite user"
+            ]
+        },
+        {
+            "tags": [
+                "repo_collaboration"
+            ],
+            "patterns": [
+                "remove collaborator"
+            ],
+            "responses": [
+                "yes remove collaborator setting page"
+            ]
+        },
+        {
+            "tags": [
+                "repo_collaboration"
+            ],
+            "patterns": [
+                "permission give collaborator"
+            ],
+            "responses": [
+                "set read write admin access"
+            ]
+        },
+        {
+            "tags": [
+                "repo_collaboration"
+            ],
+            "patterns": [
+                "collaborate repo"
+            ],
+            "responses": [
+                "collaborate repo fork clone create pull request youre ready"
+            ]
+        },
+        {
+            "tags": [
+                "repo_collaboration"
+            ],
+            "patterns": [
+                "work others github"
+            ],
+            "responses": [
+                "yes collaborate others inviting collaborator repository"
+            ]
+        },
+        {
+            "tags": [
+                "repo_collaboration"
+            ],
+            "patterns": [
+                "pull request"
+            ],
+            "responses": [
+                "pull request way propose change repository allows others review change merging"
+            ]
+        },
+        {
+            "tags": [
+                "repo_collaboration"
+            ],
+            "patterns": [
+                "invite someone repo"
+            ],
+            "responses": [
+                "invite someone go repository setting navigate manage access section invite collaborator"
+            ]
+        },
+        {
+            "tags": [
+                "repo_collaboration"
+            ],
+            "patterns": [
+                "forking repository"
+            ],
+            "responses": [
+                "forking repository creates personal copy someone el repository allowing make change without affecting original"
+            ]
+        },
+        {
+            "tags": [
+                "repo_collaboration"
+            ],
+            "patterns": [
+                "see change made others"
+            ],
+            "responses": [
+                "yes view commit history change made collaborator commits section repository"
+            ]
+        },
+        {
+            "tags": [
+                "repo_collaboration"
+            ],
+            "patterns": [
+                "merge change pull request"
+            ],
+            "responses": [
+                "merge change pull request review change everything look good click merge pull request button"
+            ]
+        },
+        {
+            "tags": [
+                "repo_collaboration"
+            ],
+            "patterns": [
+                "issue github"
+            ],
+            "responses": [
+                "issue used track bug enhancement task project create assign collaborator"
+            ]
+        },
+        {
+            "tags": [
+                "repo_collaboration"
+            ],
+            "patterns": [
+                "resolve conflict"
+            ],
+            "responses": [
+                "resolve conflict youll need manually edit conflicting file commit change merging"
+            ]
+        },
+        {
+            "tags": [
+                "repo_collaboration"
+            ],
+            "patterns": [
+                "use github project collaboration"
+            ],
+            "responses": [
+                "absolutely github project help organize prioritize work within repository"
+            ]
+        },
+        {
+            "tags": [
+                "merge_conflict"
+            ],
+            "patterns": [
+                "merge conflict"
+            ],
+            "responses": [
+                "merge conflict happens change overlap git doesnt know keep"
+            ]
+        },
+        {
+            "tags": [
+                "merge_conflict"
+            ],
+            "patterns": [
+                "resolve merge conflict"
+            ],
+            "responses": [
+                "open file fix conflict commit change"
+            ]
+        },
+        {
+            "tags": [
+                "merge_conflict"
+            ],
+            "patterns": [
+                "avoid merge conflict"
+            ],
+            "responses": [
+                "keep branch updated frequently pulling change main branch"
+            ]
+        },
+        {
+            "tags": [
+                "merge_conflict"
+            ],
+            "patterns": [
+                "merge conflict"
+            ],
+            "responses": [
+                "merge conflict occurs change different branch overlap git cant automatically resolve"
+            ]
+        },
+        {
+            "tags": [
+                "merge_conflict"
+            ],
+            "patterns": [
+                "fix merge conflict"
+            ],
+            "responses": [
+                "fix merge conflict youll need manually resolve conflicting file commit change"
+            ]
+        },
+        {
+            "tags": [
+                "merge_conflict"
+            ],
+            "patterns": [
+                "getting merge conflict"
+            ],
+            "responses": [
+                "merge conflict typically arise two branch made change line code"
+            ]
+        },
+        {
+            "tags": [
+                "merge_conflict"
+            ],
+            "patterns": [
+                "explain merge conflict"
+            ],
+            "responses": [
+                "sure merge conflict happen git cant automatically combine change different branch"
+            ]
+        },
+        {
+            "tags": [
+                "merge_conflict"
+            ],
+            "patterns": [
+                "avoid merge conflict"
+            ],
+            "responses": [
+                "avoid merge conflict frequently pulling change main branch communicating team"
+            ]
+        },
+        {
+            "tags": [
+                "merge_conflict"
+            ],
+            "patterns": [
+                "encounter conflict"
+            ],
+            "responses": [
+                "encounter conflict review change edit conflicting file commit resolution"
+            ]
+        },
+        {
+            "tags": [
+                "merge_conflict"
+            ],
+            "patterns": [
+                "tool help merge conflict"
+            ],
+            "responses": [
+                "use visual merge tool like kdiff builtin merge conflict resolution ides"
+            ]
+        },
+        {
+            "tags": [
+                "merge_conflict"
+            ],
+            "patterns": [
+                "way see caused conflict"
+            ],
+            "responses": [
+                "yes review commit history understand change led conflict"
+            ]
+        },
+        {
+            "tags": [
+                "merge_conflict"
+            ],
+            "patterns": [
+                "merge branch without conflict"
+            ],
+            "responses": [
+                "merge branch without conflict ensure branch uptodate communicate collaborator"
+            ]
+        },
+        {
+            "tags": [
+                "merge_conflict"
+            ],
+            "patterns": [
+                "prevent merge conflict completely"
+            ],
+            "responses": [
+                "cant completely prevent good communication regular update minimize"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "github action"
+            ],
+            "responses": [
+                "github action allow automate workflow directly repository"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "create workflow github"
+            ],
+            "responses": [
+                "create workflow adding yaml file githubworkflows directory"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "automate github action"
+            ],
+            "responses": [
+                "automate testing deployment task github action"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "schedule workflow"
+            ],
+            "responses": [
+                "yes schedule workflow using cron syntax workflow yaml file"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "trigger github action"
+            ],
+            "responses": [
+                "trigger github action event like push pull request schedule"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "workflow run"
+            ],
+            "responses": [
+                "workflow run instance workflow execution triggered event"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "use action marketplace"
+            ],
+            "responses": [
+                "yes use prebuilt action github marketplace workflow"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "debug workflow"
+            ],
+            "responses": [
+                "debug workflow reviewing log action tab repository"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "environment variable workflow"
+            ],
+            "responses": [
+                "environment variable used workflow manage configuration secret"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "create reusable workflow"
+            ],
+            "responses": [
+                "absolutely create reusable workflow defining separate yaml file calling workflow"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "github action"
+            ],
+            "responses": [
+                "github action help automate workflow building deploying code"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "set workflow"
+            ],
+            "responses": [
+                "go action tab choose template customize"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "trigger workflow manually"
+            ],
+            "responses": [
+                "yes workflow started manually action tab"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "github action"
+            ],
+            "responses": [
+                "github action help automate workflow building deploying code"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "set workflow"
+            ],
+            "responses": [
+                "go action tab choose template customize"
+            ]
+        },
+        {
+            "tags": [
+                "actions_workflows"
+            ],
+            "patterns": [
+                "trigger workflow manually"
+            ],
+            "responses": [
+                "yes workflow started manually action tab"
+            ]
+        },
+        {
+            "tags": [
+                "settings_changes"
+            ],
+            "patterns": [
+                "change repository setting"
+            ],
+            "responses": [
+                "change repository setting navigating setting tab repository"
+            ]
+        },
+        {
+            "tags": [
+                "settings_changes"
+            ],
+            "patterns": [
+                "setting configure"
+            ],
+            "responses": [
+                "configure option like visibility collaborator branch integration"
+            ]
+        },
+        {
+            "tags": [
+                "settings_changes"
+            ],
+            "patterns": [
+                "change default branch"
+            ],
+            "responses": [
+                "yes change default branch repository setting branch"
+            ]
+        },
+        {
+            "tags": [
+                "settings_changes"
+            ],
+            "patterns": [
+                "manage collaborator"
+            ],
+            "responses": [
+                "manage collaborator manage access section repository setting"
+            ]
+        },
+        {
+            "tags": [
+                "settings_changes"
+            ],
+            "patterns": [
+                "repository webhooks"
+            ],
+            "responses": [
+                "webhooks allow send realtime notification service certain event occur repository"
+            ]
+        },
+        {
+            "tags": [
+                "settings_changes"
+            ],
+            "patterns": [
+                "enable github page"
+            ],
+            "responses": [
+                "enable github page setting page section select source branch"
+            ]
+        },
+        {
+            "tags": [
+                "settings_changes"
+            ],
+            "patterns": [
+                "restrict access repo"
+            ],
+            "responses": [
+                "yes set repository private restrict access selected collaborator"
+            ]
+        },
+        {
+            "tags": [
+                "settings_changes"
+            ],
+            "patterns": [
+                "branch protection rule"
+            ],
+            "responses": [
+                "branch protection rule help enforce workflow policy specific branch"
+            ]
+        },
+        {
+            "tags": [
+                "settings_changes"
+            ],
+            "patterns": [
+                "change repository visibility"
+            ],
+            "responses": [
+                "change visibility public private repository setting"
+            ]
+        },
+        {
+            "tags": [
+                "settings_changes"
+            ],
+            "patterns": [
+                "configure issue template"
+            ],
+            "responses": [
+                "yes create issue template adding markdown file githubissuetemplate directory"
+            ]
+        },
+        {
+            "tags": [
+                "repo_visibility"
+            ],
+            "patterns": [
+                "change visibility repo"
+            ],
+            "responses": [
+                "change visibility repository setting danger zone"
+            ]
+        },
+        {
+            "tags": [
+                "repo_visibility"
+            ],
+            "patterns": [
+                "public private repository"
+            ],
+            "responses": [
+                "public repository visible everyone private one restricted selected collaborator"
+            ]
+        },
+        {
+            "tags": [
+                "repo_visibility"
+            ],
+            "patterns": [
+                "make private repo public later"
+            ],
+            "responses": [
+                "yes change private repository public cautious sensitive data"
+            ]
+        },
+        {
+            "tags": [
+                "repo_visibility"
+            ],
+            "patterns": [
+                "making repo public mean"
+            ],
+            "responses": [
+                "making repo public mean anyone view clone repository"
+            ]
+        },
+        {
+            "tags": [
+                "repo_visibility"
+            ],
+            "patterns": [
+                "limit private repository"
+            ],
+            "responses": [
+                "githubs free plan offer unlimited private repository limitation feature"
+            ]
+        },
+        {
+            "tags": [
+                "repo_visibility"
+            ],
+            "patterns": [
+                "ensure repo stay private"
+            ],
+            "responses": [
+                "make sure set repository private creating manage access carefully"
+            ]
+        },
+        {
+            "tags": [
+                "repo_visibility"
+            ],
+            "patterns": [
+                "happens change visibility"
+            ],
+            "responses": [
+                "changing visibility affect see access repository"
+            ]
+        },
+        {
+            "tags": [
+                "repo_visibility"
+            ],
+            "patterns": [
+                "make repository private"
+            ],
+            "responses": [
+                "repo setting change visibility private"
+            ]
+        },
+        {
+            "tags": [
+                "repo_visibility"
+            ],
+            "patterns": [
+                "make private repo public"
+            ],
+            "responses": [
+                "yes change visibility private public setting"
+            ]
+        },
+        {
+            "tags": [
+                "repo_visibility"
+            ],
+            "patterns": [
+                "collaborator access private repo"
+            ],
+            "responses": [
+                "yes collaborator invite access private repository"
+            ]
+        },
+        {
+            "tags": [
+                "repo_visibility"
+            ],
+            "patterns": [
+                "benefit public repo"
+            ],
+            "responses": [
+                "public repository enhance collaboration visibility opensource project"
+            ]
+        },
+        {
+            "tags": [
+                "repo_visibility"
+            ],
+            "patterns": [
+                "invite others public repo"
+            ],
+            "responses": [
+                "yes anyone clone public repository invited collaborator push change"
+            ]
+        },
+        {
+            "tags": [
+                "issue_labels"
+            ],
+            "patterns": [
+                "create issue label"
+            ],
+            "responses": [
+                "create issue label label section issue tab"
+            ]
+        },
+        {
+            "tags": [
+                "issue_labels"
+            ],
+            "patterns": [
+                "label used"
+            ],
+            "responses": [
+                "label help categorize organize issue better tracking management"
+            ]
+        },
+        {
+            "tags": [
+                "issue_labels"
+            ],
+            "patterns": [
+                "customize issue label"
+            ],
+            "responses": [
+                "yes create custom label different color name"
+            ]
+        },
+        {
+            "tags": [
+                "issue_labels"
+            ],
+            "patterns": [
+                "assign label issue"
+            ],
+            "responses": [
+                "assign label issue creating editing issue later"
+            ]
+        },
+        {
+            "tags": [
+                "issue_labels"
+            ],
+            "patterns": [
+                "whats difference label milestone"
+            ],
+            "responses": [
+                "label categorize issue milestone group related issue specific goal deadline"
+            ]
+        },
+        {
+            "tags": [
+                "issue_labels"
+            ],
+            "patterns": [
+                "filter issue label"
+            ],
+            "responses": [
+                "yes filter issue label issue tab better organization"
+            ]
+        },
+        {
+            "tags": [
+                "issue_labels"
+            ],
+            "patterns": [
+                "many label create"
+            ],
+            "responses": [
+                "there strict limit number label create repository"
+            ]
+        },
+        {
+            "tags": [
+                "issue_labels"
+            ],
+            "patterns": [
+                "delete existing label"
+            ],
+            "responses": [
+                "yes delete label label section issue tab"
+            ]
+        },
+        {
+            "tags": [
+                "issue_labels"
+            ],
+            "patterns": [
+                "priority label"
+            ],
+            "responses": [
+                "priority label indicate urgency importance issue"
+            ]
+        },
+        {
+            "tags": [
+                "issue_labels"
+            ],
+            "patterns": [
+                "use label project management"
+            ],
+            "responses": [
+                "use label track progress identify blocker assign responsibility"
+            ]
+        },
+        {
+            "tags": [
+                "issue_labels"
+            ],
+            "patterns": [
+                "label issue"
+            ],
+            "responses": [
+                "creating editing issue add label categorize"
+            ]
+        },
+        {
+            "tags": [
+                "milestones"
+            ],
+            "patterns": [
+                "milestone"
+            ],
+            "responses": [
+                "milestone help track progress towards goal grouping issue"
+            ]
+        },
+        {
+            "tags": [
+                "milestones"
+            ],
+            "patterns": [
+                "create milestone"
+            ],
+            "responses": [
+                "go issue tab click milestone create new one"
+            ]
+        },
+        {
+            "tags": [
+                "notifications"
+            ],
+            "patterns": [
+                "manage notification"
+            ],
+            "responses": [
+                "github setting adjust notification preference"
+            ]
+        },
+        {
+            "tags": [
+                "git_ignore"
+            ],
+            "patterns": [
+                "gitignore"
+            ],
+            "responses": [
+                "gitignore tell git file folder ignore"
+            ]
+        },
+        {
+            "tags": [
+                "git_ignore"
+            ],
+            "patterns": [
+                "use gitignore file"
+            ],
+            "responses": [
+                "create gitignore file repo list file want git ignore"
+            ]
+        }
+    ]
+}
