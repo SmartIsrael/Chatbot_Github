@@ -52,7 +52,7 @@ github-query-chatbot/
 - **User:** How do I set up GitHub Actions for my project?
 - **Chatbot:** You can set up GitHub Actions by creating a `.github/workflows` directory in your repository and adding workflow YAML files to define your actions.
 
-# MY DEMO VIDEO: https://www.loom.com/share/56c2ca1b94f04b81af840f162cd16a70?sid=8bde3f98-cc2e-413b-b59f-c3406325b316
+# MY DEMO VIDEO: (https://www.loom.com/share/56c2ca1b94f04b81af840f162cd16a70?sid=8bde3f98-cc2e-413b-b59f-c3406325b316)
 
 # LIVE STREAMLIT DEMO: https://gitbuddy.streamlit.app/
 
